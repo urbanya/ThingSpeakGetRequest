@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThingSpeakGetRequest</string>
+    <string name="submit">submit</string>
+    <string name="drehzahl">Drehzahl</string>
+</resources>
